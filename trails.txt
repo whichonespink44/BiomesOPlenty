@@ -55,17 +55,21 @@ d1ab8e202e07499bb590b4b12c1fbb42:donator_trail
 //NSDragon
 06d348b694164feb8e821eb541502471:donator_trail
 
-//adencraft2000
-9d10b0ded0cf43108b08c21578a28555:donator_trail
 
 //Patreon Supporters (Need Verficiation)
 
 //revstrom
-
 5a67f75b4a094a8ebbf30edb0d7bb561:donator_trail
 
 //mecharm
 5cd25fad25974aa2a3ff24272e17d739:donator_trail
+
+//adencraft2000
+9d10b0ded0cf43108b08c21578a28555:donator_trail
+
+//Dulciphi
+208cbb56cb77498b9667a8bb9dcdec2e:donator_trail
+
 
 //Helpers
 
