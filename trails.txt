@@ -64,6 +64,9 @@ d1ab8e202e07499bb590b4b12c1fbb42:donator_trail
 //Fuzz223
 a6ddf0beb1dd4e40b3dc0437df8518cf:donator_trail
 
+//GoofyShoot
+9c4e8b6c29754a0aa0caaef6f56b8820:donator_trail
+
 //Patreon Supporters (Need Verficiation)
 
 //AquaBarnes
