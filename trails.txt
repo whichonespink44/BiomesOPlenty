@@ -75,6 +75,9 @@ bc742c22784248f693495379865d962e:donator_trail
 
 //Patreon Supporters (Need Verficiation)
 
+//Chaoschunk
+deec0b03d84d47dfbce4ebfd0fe6ab80:donator_trail
+
 //Patreon - False Pledges
 //revstrom
 //adencraft2000
