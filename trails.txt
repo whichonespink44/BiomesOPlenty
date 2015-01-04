@@ -73,13 +73,13 @@ c7b62bb08a7a41f8a9d9812c89ee9c99:donator_trail
 //Syndaryl
 bc742c22784248f693495379865d962e:donator_trail
 
-//Patreon Supporters (Need Verficiation)
-
 //Chaoschunk
 deec0b03d84d47dfbce4ebfd0fe6ab80:donator_trail
 
 //Edswald_
 c44427b3fd3c484ea6cf04b2ad92ef27:donator_trail
+
+//Patreon Supporters (Need Verficiation)
 
 //Patreon - False Pledges
 //revstrom
