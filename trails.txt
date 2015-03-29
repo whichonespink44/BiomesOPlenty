@@ -84,6 +84,9 @@ c44427b3-fd3c-484e-a6cf-04b2ad92ef27:donator_trail
 
 //Patreon Supporters (Need Verficiation)
 
+//Gorduleria
+61fa5245-82a0-4985-8644-5d2f775ce1d5:donator_trail
+
 //Patreon - False Pledges
 //revstrom
 //adencraft2000
