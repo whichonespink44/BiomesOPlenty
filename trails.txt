@@ -82,6 +82,9 @@ deec0b03-d84d-47df-bce4-ebfd0fe6ab80:donator_trail
 //Edswald
 c44427b3-fd3c-484e-a6cf-04b2ad92ef27:donator_trail
 
+//deathclaw31
+b9726d8f-0455-427f-87f2-a24adfcd7268:donator_trail
+
 //Patreon Supporters (Need Verficiation)
 
 //Gorduleria
