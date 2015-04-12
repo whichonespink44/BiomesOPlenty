@@ -41,6 +41,9 @@ e4c79a56-ac81-467b-850e-ed6e1e77eb40:donator_trail
 //downslope7
 8cf61715-6216-4903-bb03-e9653c4eba15:donator_trail
 
+//GaulderFist
+ccebe60d-b649-4ef5-82d6-7d12f9671b61:donator_trail
+
 //Patreon Supporters
 
 //iarspider
