@@ -93,6 +93,9 @@ b9726d8f-0455-427f-87f2-a24adfcd7268:donator_trail
 //Gorduleria
 61fa5245-82a0-4985-8644-5d2f775ce1d5:donator_trail
 
+//Ariaxis
+bef0a130-c4f5-4239-bd6b-a19e24802120:donator_trail
+
 //Patreon - False Pledges
 //revstrom
 //adencraft2000
